@@ -1,0 +1,7 @@
+Modified Leonardo bootloader that implements a start timeout of
+3 seconds instead of the original 8 seconds. Speeds up 'Reset' button.
+
+Overwrite the original file located into the following folder, such as:
+C:\Program Files (x86)\Arduino\hardware\arduino\avr\bootloaders\caterina
+
+The attached files have been compiled under Linux with gcc 4.8.1.
