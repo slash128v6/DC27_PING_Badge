@@ -10,3 +10,5 @@ Install the required libraries in your Arduino IDE:
 
 Adafruit_SSD1306
 Adafruit_GFX
+
+Board type is Arduino Leonardo
